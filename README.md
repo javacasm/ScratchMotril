@@ -19,12 +19,12 @@
 ## Sesión 1: Empezando a programar por bloques: Scratch
 - [Qué es Scratch: usos educativos](./Indice.md)
 - [Programando con Scratch](./Scratch.md):
-* [Instrucciones de posicionamiento](./Scratch.md#vamos-a-dibujar)
-* [Personajes, disfraces, escenarios](./Scratch.md#personaje)
-* [Sonidos y animaciones](./Scratch.md#sonido)
-- Estructuras de control
-- Concepto de variable
-- Estructuras condicionales
+    * [Instrucciones de posicionamiento](./Scratch.md#vamos-a-dibujar)
+    * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+    * [Sonidos y animaciones](./Scratch.md#sonido)
+- [Estructuras de control](./Scratch.md#sentencias-de-control)
+- [Concepto de variable](./Scratch.md#variables)
+- [Estructuras condicionales](./Scratch.md#pueden-interaccionar-entre-s%C3%AD)
 - Interacción entre objetos: [programando un juego](./Ejemplos.md)
 
 ## Sesión 2: Electrónica básica: Placas Arduino
