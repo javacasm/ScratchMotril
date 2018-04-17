@@ -12,11 +12,7 @@
 
 ## https://github.com/javacasm/ScratchMotril
 
-# CONTENIDOS:
-
-
-* [Generar un ejecutable desde un proyecto Scratch](https://wiki.scratch.mit.edu/wiki/Porting_Scratch_Projects#Scratch_online_to_EXE)
-## [Recursos](./recursos.md)
+## CONTENIDOS:
 
 ## Sesión 1: Empezando a programar por bloques: Scratch
 - [Qué es Scratch: usos educativos](./Indice.md)
@@ -45,3 +41,6 @@
 
 ## Sesión 5: Proyecto grupal
 - Sesión de continuación para el desarrollo práctico enfocada a las necesidades del alumnado
+
+
+## [Recursos](./recursos.md)
