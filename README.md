@@ -28,6 +28,7 @@
 - Interacción entre objetos: [programando un juego](./Ejemplos.md)
 
 ## Sesión 2: Electrónica básica: Placas Arduino
+- [¿Qué es Arduino?](./arduino.md)
 - Midiendo resistencias: sensores
 - Circuitos con Leds
 - Encendido crepuscular automático de Led
