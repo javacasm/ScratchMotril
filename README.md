@@ -12,13 +12,20 @@
 
 # CONTENIDOS:
 
+
+* [Generar un ejecutable desde un proyecto Scratch](https://wiki.scratch.mit.edu/wiki/Porting_Scratch_Projects#Scratch_online_to_EXE)
+## [Recursos](./recursos.md)
+
 ## Sesión 1: Empezando a programar por bloques: Scratch
-- Qué es Scratch: usos educativos
-- Instrucciones de posicionamiento
+- [Qué es Scratch: usos educativos](./Indice.md)
+- [Programando con Scratch](./Scratch.md):
+* [Instrucciones de posicionamiento](./Scratch.md#vamos-a-dibujar)
+* [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+* [Sonidos y animaciones](./Scratch.md#sonido)
 - Estructuras de control
 - Concepto de variable
 - Estructuras condicionales
-- Interacción entre objetos: programando un juego
+- Interacción entre objetos: [programando un juego](./Ejemplos.md)
 
 ## Sesión 2: Electrónica básica: Placas Arduino
 - Midiendo resistencias: sensores
