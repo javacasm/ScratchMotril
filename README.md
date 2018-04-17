@@ -1,1 +1,37 @@
-# ScratchMotril
+# Curso de Robótica con Scratch y Arduino
+
+## CEP Motril
+
+## Profesorado de Primaria y Secundaria
+
+### José Antonio Vacas Martínez @javacasm
+
+### 18 y 25 de Abril, 16 y 23 de Mayo
+
+## https://github.com/javacasm/ScratchMotril
+
+# CONTENIDOS:
+
+## Sesión 1: Empezando a programar por bloques: Scratch
+- Qué es Scratch: usos educativos
+- Instrucciones de posicionamiento
+- Estructuras de control
+- Concepto de variable
+- Estructuras condicionales
+- Interacción entre objetos: programando un juego
+
+## Sesión 2: Electrónica básica: Placas Arduino
+- Midiendo resistencias: sensores
+- Circuitos con Leds
+- Encendido crepuscular automático de Led
+- Circuitos integrados: usando chips
+- Las placas Arduino: usos educativos y características.
+- Programación de secuencias de Leds
+- Detectando pulsadores
+- Lectura de temperatura y luz
+
+## Sesión 4: Proyecto grupal
+- Sesión de desarrollo práctico enfocada a las necesidades del alumnado
+
+## Sesión 5: Proyecto grupal
+- Sesión de continuación para el desarrollo práctico enfocada a las necesidades del alumnado
