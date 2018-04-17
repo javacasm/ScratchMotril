@@ -8,6 +8,8 @@
 
 ### 18 y 25 de Abril, 16 y 23 de Mayo
 
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
+
 ## https://github.com/javacasm/ScratchMotril
 
 # CONTENIDOS:
