@@ -31,7 +31,7 @@
 - [Midiendo resistencias: sensores](./arduino.md#leemos-voltajes)
 - [Lectura de temperatura y luz](./arduino.md#lo-sensores-igual)
 - [Encendido crepuscular automático de Led](https://github.com/javacasm/ScratchMotril/blob/master/arduino.md#ldr-c%C3%A9lula-fotoel%C3%A9ctrica)
-- Circuitos integrados: usando chips y relés
+- [Circuitos integrados: usando chips y relés](./arduino.md#rel%C3%A9s)
 - Las placas Arduino: usos educativos y características.
 - [Programación de secuencias de Leds](./arduino.md#Secuencias)
 - [Detectando pulsadores](./arduino.md#Pulsadores)
