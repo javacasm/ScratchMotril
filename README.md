@@ -36,11 +36,10 @@
 - Detectando pulsadores
 - Lectura de temperatura y luz
 
-## Sesión 4: Proyecto grupal
+## Sesión 3: Proyecto grupal
 - Sesión de desarrollo práctico enfocada a las necesidades del alumnado
 
-## Sesión 5: Proyecto grupal
-- Sesión de continuación para el desarrollo práctico enfocada a las necesidades del alumnado
+
 
 
 ## [Recursos](./recursos.md)
