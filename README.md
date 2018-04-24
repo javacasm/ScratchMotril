@@ -27,14 +27,14 @@
 
 ## Sesión 2: Electrónica básica: Placas Arduino
 - [¿Qué es Arduino?](./arduino.md)
-- Midiendo resistencias: sensores
-- Circuitos con Leds
+- [Circuitos con Leds](./arduino.md#led-en-el-pin-9) y [graduando la potencia](./arduino.md#no-todo-es-digital)
+- [Midiendo resistencias: sensores](./arduino.md#leemos-voltajes)
+- [Lectura de temperatura y luz](./arduino.md#lo-sensores-igual)
 - Encendido crepuscular automático de Led
-- Circuitos integrados: usando chips
+- Circuitos integrados: usando chips y relés
 - Las placas Arduino: usos educativos y características.
 - Programación de secuencias de Leds
 - Detectando pulsadores
-- Lectura de temperatura y luz
 
 ## Sesión 3: Proyecto grupal
 - Sesión de desarrollo práctico enfocada a las necesidades del alumnado
