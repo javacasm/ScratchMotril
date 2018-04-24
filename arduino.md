@@ -214,6 +214,23 @@ Ejemplo: activaremos un led al bajar de determinado nivel de luz
 
 Ejemplo 2: Regular el nivel con un potenciómetro.  Documentarlo.
 
+#### [Medida de humedad o salinidad](./codigo/Humedad_Saturacion_salina/Humedad_Saturacion_salina.ino)
+![Humedad](./images/MedidaHumedadSalinidad_bb.png)
+* [Sistema de Riego](./codigo/Sistema_Riego/Sistema_Riego.ino)
+![Sistema de riego](./images/SistemaRiego_bb.png)
+
+* Fijar el umbral de riego mediante un potenciómetro
+
+![](./images/SistemaRiegoRegulable_bb.png)
+
+* Ahora podemos hacer que el valor del potenciometro regule el [valor de disparo del riego](./codigo/Sistema_Riego_REgulable/Sistema_Riego_REgulable.ino)
+
+* Una vez montado el circuito calibramos los valores de humedad, lo que nos dará un valor de lo que consideramos seco VALOR_SECO y húmedo VALOR_MOJADO. Además definiremos un valor de HISTERESIS que evitará que se produzcan Enciendos/Apagados de manera rápida e intermitente
+
+[Codigo](./codigo/Sistema_Riego_REgulable_calibrado/Sistema_Riego_REgulable_calibrado.ino)
+
+
+
 #### Secuencias
 
   Una secuencia es un conjunto de instrucciones que se realiza en determinado orden.
