@@ -214,7 +214,9 @@ Ejemplo: activaremos un led al bajar de determinado nivel de luz
 
 Ejemplo 2: Regular el nivel con un potenciómetro.  Documentarlo.
 
-#### [Medida de humedad o salinidad](./codigo/Humedad_Saturacion_salina/Humedad_Saturacion_salina.ino)
+####  Relés
+
+[Medida de humedad o salinidad](./codigo/Humedad_Saturacion_salina/Humedad_Saturacion_salina.ino)
 ![Humedad](./images/MedidaHumedadSalinidad_bb.png)
 * [Sistema de Riego](./codigo/Sistema_Riego/Sistema_Riego.ino)
 ![Sistema de riego](./images/SistemaRiego_bb.png)
