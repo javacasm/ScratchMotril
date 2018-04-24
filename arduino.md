@@ -229,7 +229,7 @@ Ejemplo 2: Regular el nivel con un potenciómetro.  Documentarlo.
 
 [Codigo](./codigo/Sistema_Riego_REgulable_calibrado/Sistema_Riego_REgulable_calibrado.ino)
 
-
+![rele](https://github.com/javacasm/SmartCities_Domotica/raw/master/imagenes/7_Bomba_Riego_bb.png)
 
 #### Secuencias
 
