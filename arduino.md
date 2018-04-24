@@ -205,6 +205,60 @@ by Luis Llamas [luisllamas.es](https://www.luisllamas.es/medir-temperatura-con-a
 ![Temperatura_RGB.png](./images/Temperatura_RGB.png)
 
 
+#### LDR (célula fotoeléctrica)
+
+Ejemplo: activaremos un led al bajar de determinado nivel de luz
+
+
+![ldr](./imagenes/LDR-umbral.png)
+
+Ejemplo 2: Regular el nivel con un potenciómetro.  Documentarlo.
+
+#### Secuencias
+
+  Una secuencia es un conjunto de instrucciones que se realiza en determinado orden.
+
+  Ejemplos de secuencias son un semáforo, o el programador de una lavadora
+
+  Trabajaremos con el ejemplo del semáforo
+
+  ![Semaforo](./images/Semaforo_pulsador_bb.png)
+
+  En nuestro caso un pulsador hará el cambio entre los estados.
+
+  Si el tiempo de espera entre los estados es alto y usamos delay() veremos que el sistema responde lentamente.
+
+  Para ello dividiremos el tiempo de espera en esperas más cortas entre las que comprobaremos el estado del pulsador
+
+
+        int duracion_rojo = 60000;
+        int numero_iteraciones = 1000;
+        for(int i = 0 ; i < numero_iteraciones ; i = i + 1 ){
+          delay(duracion_rojo / numero_iteraciones);
+          if (digitalRead(PIN_PULSADOR) == HIGH ){
+             break;
+          }
+        }
+
+####  Pulsadores
+
+##### Detectar una pulsación
+
+Debemos conectar el pin a GND para grantizar el estado LOW si está desconectado: PullDown
+
+![botón](http://playground.arduino.cc/uploads/Main/FGFS_basics_pushbutton.jpg)
+
+if(digitalRead(pinBoton)==HIGH)
+{  .....}
+
+![Led y pulsador](./images/Led_pulsador_bb.png)
+
+Conectamos por medio de una resistencia (de 10kOhmios) el pin de arduino a GND de manera que cuando no esté activado el pulsador la patilla reciba 0V. Al pulsarlo se conectará a 5V
+
+Es lo que se conoce como conexión Pull-Down
+
+![Esquema pulsador](./images/Led_pulsador_esquema.png)
+
 # Librerías
 
 * Instalamos una librería
