@@ -30,11 +30,11 @@
 - [Circuitos con Leds](./arduino.md#led-en-el-pin-9) y [graduando la potencia](./arduino.md#no-todo-es-digital)
 - [Midiendo resistencias: sensores](./arduino.md#leemos-voltajes)
 - [Lectura de temperatura y luz](./arduino.md#lo-sensores-igual)
-- Encendido crepuscular automático de Led
+- [Encendido crepuscular automático de Led](https://github.com/javacasm/ScratchMotril/blob/master/arduino.md#ldr-c%C3%A9lula-fotoel%C3%A9ctrica)
 - Circuitos integrados: usando chips y relés
 - Las placas Arduino: usos educativos y características.
-- Programación de secuencias de Leds
-- Detectando pulsadores
+- [Programación de secuencias de Leds](./arduino.md#Secuencias)
+- [Detectando pulsadores](./arduino.md#Pulsadores)
 
 ## Sesión 3: Proyecto grupal
 - Sesión de desarrollo práctico enfocada a las necesidades del alumnado
