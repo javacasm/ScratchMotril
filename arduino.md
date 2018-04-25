@@ -164,6 +164,12 @@ Rangos de lectura
 Ejemplos -> 3. Analog -> AnalogInput
 
 
+# Scratch o Snap 4 Arduino
+
+[http://snap4arduino.rocks/run/](http://snap4arduino.rocks/run/)
+
+![snap4arduino](http://discuss.littlebits.cc/uploads/default/original/2X/c/cc8e90508e60898a3be3f479327f08f0bf4161be.jpg)
+
 # Lo sensores igual
 
 #### Convertiremos voltaje a magnitud física
