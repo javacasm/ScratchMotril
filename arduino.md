@@ -222,6 +222,8 @@ Ejemplo 2: Regular el nivel con un potenciómetro.  Documentarlo.
 
 ####  Relés
 
+![images/IluminacionRegulable_bb.png](./images/IluminacionRegulable_bb.png)
+
 [Medida de humedad o salinidad](./codigo/Humedad_Saturacion_salina/Humedad_Saturacion_salina.ino)
 ![Humedad](./images/MedidaHumedadSalinidad_bb.png)
 * [Sistema de Riego](./codigo/Sistema_Riego/Sistema_Riego.ino)
