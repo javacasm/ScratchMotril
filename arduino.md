@@ -164,6 +164,11 @@ Rangos de lectura
 Ejemplos -> 3. Analog -> AnalogInput
 
 
+### Usemos el joystick
+
+![Joystick](https://camo.githubusercontent.com/03a0315663772cd92b0be38ba9d1015d40fcf16e/687474703a2f2f636f6469676f32312e656475636163696f6e2e6e6176617272612e65732f77702d636f6e74656e742f75706c6f6164732f323031362f30322f6a6f79737469636b31312e706e67)
+
+
 # Scratch o Snap 4 Arduino
 
 [http://snap4arduino.rocks/run/](http://snap4arduino.rocks/run/)
